@@ -45,5 +45,3 @@ To understand car sales patterns over a 6-month period (January–June 2024) by 
 
 
 
-> This project was built as a hands-on exercise to practice real-world data cleaning, grouping, and visualization techniques.
-> I’m open to feedback and opportunities to improve.
